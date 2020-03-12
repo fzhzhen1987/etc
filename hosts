@@ -1,2 +1,3 @@
 # Static table lookup for hostnames.
 # See hosts(5) for details.
+127.0.1.1      x1c.localdomain  x1c
