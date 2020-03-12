@@ -1,0 +1,4 @@
+ca-certificates/
+ssl/
+fonts/
+pacman.d/gnupg/
